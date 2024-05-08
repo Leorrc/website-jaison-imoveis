@@ -3,6 +3,7 @@
 <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
 
 <img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-2.png">
+</div>
 
 <div align="center"><strong>Projeto feito com Next.js 14</strong></div>
 <br />
