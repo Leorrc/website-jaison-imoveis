@@ -1,12 +1,19 @@
 <div align="center">
+
+<img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
+
 <picture>
   <source  srcset="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
-  <img alt="Shows all of the tools in the stack for this template, also listed in the README file." src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png" w>
+  <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
+</picture>
+
+<picture>
+  <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
 </picture>
  
 <picture>
   <source  srcset="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-2.png">
-  <img alt="Shows all of the tools in the stack for this template, also listed in the README file." src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-2.png">
+  <img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-2.png">
 </picture>
 </div>
 
