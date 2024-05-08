@@ -13,7 +13,7 @@
 
 # 👨🏻‍💻 Descrição do projeto 
 
-- Redesign para uma imóbiliaria para o Jaison Imóveis, totalmente personalizado como o cliente pediu.
+- Redesign profissional e personalizado para a imobiliária Jaison Imóveis, atendendo às demandas específicas do cliente de forma exclusiva.
 
 <br />
 
