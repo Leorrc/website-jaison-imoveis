@@ -2,20 +2,7 @@
 
 <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
 
-<picture>
-  <source  srcset="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
-  <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
-</picture>
-
-<picture>
-  <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-1.png">
-</picture>
- 
-<picture>
-  <source  srcset="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-2.png">
-  <img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-2.png">
-</picture>
-</div>
+<img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/website-jaison-imoveis/master/images/preview-2.png">
 
 <div align="center"><strong>Projeto feito com Next.js 14</strong></div>
 <br />
